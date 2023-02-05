@@ -22,7 +22,8 @@
 
     header{
       height: 30vh;
-    }
+      
+        }
     main{
       height: 30vh;
       }
@@ -35,7 +36,7 @@ height: 30vh;
 p{
 text-align: center;
 }
- header {
+ .header {
   background-color: rgb(207, 158, 166);
   grid-column: 1/4;
 }
